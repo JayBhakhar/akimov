@@ -1,0 +1,13 @@
+crash code link of video = https://www.youtube.com/watch?v=UB1O30fR-EE&list=WL&index=29&t=1369s
+
+some tags about font tag
+
+<em>Emphasized text</em><br>
+<strong>Strong text</strong><br>
+<code>A piece of computer code</code><br>
+<samp>Sample output from a computer program</samp><br>
+<kbd>Keyboard input</kbd><br>
+<var>Variable</var>
+
+<a (href='') = aa je href chhe tene Attributes kevay>
+target="_blank" :- this Attributes will open link in new tab
